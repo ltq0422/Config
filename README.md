@@ -1,2 +1,1 @@
-# Quantumult-X-Config
-Quantumult X Config
+Remote Config
